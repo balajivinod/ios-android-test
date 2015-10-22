@@ -2,11 +2,11 @@
 //  ViewController.m
 //  IngramSoccerInfoList
 //
-//  Created by ADMINISTRATOR on 21/10/15.
-//  Copyright (c) 2015 ADMINISTRATOR. All rights reserved.
+//  Created by balaji on 21/10/15.
+//  Copyright (c) 2015 balaji. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "IngramSoccerSeasonViewController.h"
 #import "IngramServiceManager.h"
 #import "IngramDBManager.h"
 #import "SoccerSeasonInfo.h"
@@ -14,12 +14,12 @@
 
 #define kSoccerSeasonInfoCellIdentifier @"soccerSeasonInfoCell"
 
-@interface ViewController ()
+@interface IngramSoccerSeasonViewController ()
 @property(strong, nonatomic)NSArray *readSoccerArray;
 @property(weak, nonatomic)IBOutlet UITableView *soccerListTableView;
 @end
 
-@implementation ViewController
+@implementation IngramSoccerSeasonViewController
 @synthesize readSoccerArray = _readSoccerArray;
 @synthesize soccerListTableView = _soccerListTableView;
 - (void)viewDidLoad {

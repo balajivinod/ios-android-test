@@ -2,8 +2,8 @@
 //  SoccerSeasonInfoCell.m
 //  IngramSoccerInfoList
 //
-//  Created by ADMINISTRATOR on 22/10/15.
-//  Copyright (c) 2015 ADMINISTRATOR. All rights reserved.
+//  Created by balaji on 22/10/15.
+//  Copyright (c) 2015 balaji. All rights reserved.
 //
 
 #import "SoccerSeasonInfoCell.h"

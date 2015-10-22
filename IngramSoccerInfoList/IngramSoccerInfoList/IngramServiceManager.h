@@ -2,9 +2,11 @@
 //  IngramServiceManager.h
 //  IngramSoccerInfoList
 //
-//  Created by ADMINISTRATOR on 21/10/15.
-//  Copyright (c) 2015 ADMINISTRATOR. All rights reserved.
+//  Created by balaji on 21/10/15.
+//  Copyright (c) 2015 balaji. All rights reserved.
 //
+// version 1.0
+// This file is service manager for getting soccerseasondetails.
 
 #import <Foundation/Foundation.h>
 
